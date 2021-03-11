@@ -12,3 +12,10 @@ example games\talk.json
   }
 }
 ```
+
+# Start developing
+
+```
+1. yarn
+2. yarn start
+```
